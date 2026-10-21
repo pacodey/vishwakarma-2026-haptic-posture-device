@@ -5,5 +5,5 @@
 ---
 
 ## 📌 Presentation & Documentation Links
-- 📊 **Google Slides (Live Presentation Deck):** [View Presentation Deck](https://docs.google.com/presentation/d/14IpsAbCi1mtCxL9mkUG8kpeUNiIFUX5ry_Ul0g8xp7g/edit?usp=sharing)
+- 📊 **Google Slides (Live Presentation Deck):** [View Presentation Deck](https://docs.google.com/presentation/d/1mg7zi_d_zopJjJOzkjE8Br016FB_GSJNKjdCdUAUcss/edit?usp=sharing)
 - 📄 **Official Submission Template PDF:** [Vishwakarma Stage 2 Template](https://github.com/user-attachments/files/33767056/vishwakarma.stage.2.submission.template.pdf)
