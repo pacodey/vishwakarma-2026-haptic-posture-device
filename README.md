@@ -1,9 +1,4 @@
-# Closed-Loop Haptic Posture Correction Device
+# Closed-Loop Haptic Posture Corrector (Posture Pod)
 
-**Vishwakarma Awards 2026–27 | Stage 2 Presentation & Hardware Repository**
-
----
-
-## 📌 Presentation & Documentation Links
-- 📊 **Google Slides (Live Presentation Deck):** [View Presentation Deck](https://docs.google.com/presentation/d/1mg7zi_d_zopJjJOzkjE8Br016FB_GSJNKjdCdUAUcss/edit?usp=sharing)
-- 📄 **Official Submission Template PDF:** [Vishwakarma Stage 2 Template](https://github.com/user-attachments/files/33767056/vishwakarma.stage.2.submission.template.pdf)
+## Project Overview
+An ergonomic, sternum-mounted wearable device designed for real-time posture monitoring and active haptic entrainment. Utilizing an ESP32-WROOM-32 MCU and an MPU-6050 6-axis IMU, the system detects thoracic flexion/extension deviations and triggers discrete, frequency-tuned haptic cues via a TI DRV2605L driver and ERM coin motor.
